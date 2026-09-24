@@ -1,0 +1,7 @@
+{
+  "name": "JARVIS Mark LIV - Personal AI Assistant HUD",
+  "description": "Real-time AI assistant with holographic avatar, reactive HUD, system telemetry, voice synthesis, memory, and Gemini 3.8 Live intelligence.",
+  "capabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
